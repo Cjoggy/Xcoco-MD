@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['15517868003'] //ur owner number
-global.ownername = "WHATSAPP OFC" //ur owner name
-global.ytname = "SANDARU-YT" //ur yt chanel name
-global.socialm = "GitHub: sandaru07" //ur github or insta name
-global.location = "asia, colombo, Aizawl" //ur location
+global.owner = ['918281370840'] //ur owner number
+global.ownername = "UCHIHA THAMBU" //ur owner name
+global.ytname = "UCHIHA THAMBU-YT" //ur yt chanel name
+global.socialm = "GitHub: Cjoggy" //ur github or insta name
+global.location = "India, Kerala, Kannur" //ur location
 
 //bot bomdy 
-global.ownernomer = "15517868003" //ur number
-global.premium = ['15517868003'] //ur premium number
-global.botname = 'Xcoco Md' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/sandaru07/' //script link
+global.ownernomer = "918281370840" //ur number
+global.premium = ['918281370840'] //ur premium number
+global.botname = 'UCHIHA THAMBU' //ur bot name
+global.linkz = "https://chat.whatsapp.com/ILADm18fdWZIJZVb9XpfeG" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@achusmediatech7825" //ur website to be displayed
+global.botscript = 'https://github.com/Cjoggy/' //script link
 global.themeemoji = "⭐" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "xcoco\n\n\nA whatsapp bot developed by\nsandaru\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916909137213" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "ī.am               ᴛʜᴀᴍʙᴜ" //ur sticker watermark author
+global.wm = "ᴛʜᴀᴍʙᴜ Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
