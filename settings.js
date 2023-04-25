@@ -28,7 +28,7 @@ global.linkz = "https://chat.whatsapp.com/ILADm18fdWZIJZVb9XpfeG" //your theme u
 global.websitex = "https://youtube.com/@achusmediatech7825" //ur website to be displayed
 global.botscript = 'https://github.com/Cjoggy/' //script link
 global.themeemoji = "⭐" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
+global.packname = "👻" //ur sticker watermark packname
 global.author = "ī.am               ᴛʜᴀᴍʙᴜ" //ur sticker watermark author
 global.wm = "ᴛʜᴀᴍʙᴜ Bot Inc." //ur watermark
 
